@@ -23,3 +23,9 @@ can be on any web server or even local
 file sysytem.
 
 ## How To Contribute
+
+Please fork this repository and then issue Pull Requests for
+
+### Copyright
+
+2020 Git. Training. All rights reserved.
