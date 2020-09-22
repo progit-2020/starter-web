@@ -27,3 +27,7 @@ Please fork this repository and then issue Pull Requests for
 ### Copyright
 
 2020 Git. Training. All rights reserved.
+
+### prove tecniche di trasmissione
+
+2020 22.9 prova plus
